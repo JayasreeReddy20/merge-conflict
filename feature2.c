@@ -1,6 +1,6 @@
 feature2
 {
-	new feature
+	new feature()
 	{
 		//sample code
 	}
