@@ -9,7 +9,10 @@ Initial Security()
 {
  //Sample Code
 }
-
+New Security path()
+{
+	//sample code
+}
 
 
 }
